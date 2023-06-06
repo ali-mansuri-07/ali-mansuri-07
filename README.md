@@ -39,7 +39,7 @@
     <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" height="35" width="100" alt="leetcode logo"  />
   </a>
   
-  <a href="[https://www.twitter.com/flyingmaroon](https://twitter.com/mansuri_ali_51?t=KhhM7saHOz7oAjkyf4HSwQ&s=08)" target="_blank">
+  <a href="https://twitter.com/mansuri_ali_51" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   
