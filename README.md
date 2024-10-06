@@ -6,7 +6,7 @@
 - 🏆 Winner of Ethereum + Polygon Track at Vashisht 2023
 - 🔭 I’m currently working on interesting projects.
 - 👯 I’m looking to collaborate on Open Source Projects, DSA Practicing, Participating in Hackathons.
-- 💬 Ask me about React, Data Structures.
+- 💬 Ask me about React, Spring, Spring Boot, NodeJs, ExpressJs, MongoDB, MySql, Data Structures and Algorithms.
 - 📫 How to reach me: mansurialihussain07@gmail.com
 - ⚡ Visit my portfolio: https://aliportfolio.pages.dev/
 
