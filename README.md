@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Ali Hussain Mansuri</h1>
-<h3 align="center">An Software Engineer | Java, Sprint Boot, Microservices, System Design | Data Structures & Algorithms</h3>
+<h3 align="center">An Software Engineer | Java, Spring Boot, Microservices, System Design | Data Structures & Algorithms</h3>
 
 - 🏆 Shining Start Award Q3 2025-26 @ NRI Fintech
 - 🏆 Winner of Ethereum + Polygon Track at Vashisht 2023
